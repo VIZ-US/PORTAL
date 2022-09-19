@@ -5,7 +5,7 @@ PORTAL (PO widget for Remote Target Acquisition and controL) is designed to leve
 ## Instruction
 - PORTAL is fully funtional in Unity.2019.4.35f1. So, we recommend you to test it in the same version of Unity. If you have a different version, it might not work properly. 
 - You can import the PORTAL unity package by Assets -> Import Package -> Custom Package ... in the Unity window tabs.
-- Please install SteamVR is installed. The PORTAL unity package already contains it. However, if it does not work, please re-install SteamVR from Untiy Asset Store.
+- Please re-install SteamVR. The PORTAL unity package already contains it. However, if it does not work, please re-install SteamVR from Untiy Asset Store.
 - If SteamVR is successfully installed, Go to Edit -> Project Settomgs -> XR Plug-in Management, and check your Plug-in Provider is OpenVR Loader.
 - Next, go to Edit -> Project Settomgs -> XR Plug-in Management -> OpenVR and set the Stereo Rendering Mode as Multi Pass.
 - Even if you follow all these steps and still the application doesn't work properly, please contact the authors. 
