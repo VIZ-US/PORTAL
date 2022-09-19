@@ -16,4 +16,4 @@ There are twp main scenes, PortalManipulation_tutorial and PortalManipulation.
 - PortalManipulation: this is the scene we used for the study. 
 
 ## Study Results Data
-- The study results described in our paper are confidentiality saved through Box (https://www.box.com/) by following IRB: #12168 and #12404. Please contact the authors (PI or student researchers for this study) to access the data.
+- The study results described in our paper are confidentiality saved through Box (https://www.box.com/) by following IRB: #12168 and #12404. Please contact the authors to access the data.
